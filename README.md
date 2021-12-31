@@ -1,8 +1,8 @@
-We have carried out the implementation which were requested below in the project descritpion
+*We have carried out the implementation which were requested below in the project descritpion*
 
 # CS-GY 6233 Final Project
 
-This is the final project for [CS-GY 6233 2021 Fall](https://brightspace.nyu.edu/d2l/home/133560) ****and it is by its very nature quite open ended. Some of the ground rules that you are used to from homework do apply though:
+This is the final project for [CS-GY 6233 2021 Fall](https://brightspace.nyu.edu/d2l/home/133560) and ***it is by its very nature quite open ended. Some of the ground rules that you are used to from homework do apply though:***
 
 - Work together at most with a single partner;
 - Work should be your own / no cheating;
